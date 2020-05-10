@@ -1,0 +1,8 @@
+<html>
+	<head lang="en">
+		<meta charest="UTF-8">
+		<script type="text/javascript">
+			document.write("Hello World!");
+		</script>
+	</head>
+</html>
